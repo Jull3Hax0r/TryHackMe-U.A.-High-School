@@ -85,7 +85,7 @@ Then extracted hidden data:
 ```
 steghide extract -sf oneforall.jpg
 ```
-As a passphrase I used what was in the file /var/www/Hidden_Content/passphrase.txt
+As a passphrase i used what was in the file /var/www/Hidden_Content/passphrase.txt
 
 <img src="https://jull3.se/extimg/school/steg.png" alt="steg.png">
 
