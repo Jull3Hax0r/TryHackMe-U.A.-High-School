@@ -1,15 +1,16 @@
-# TryHackMe-U.A.-High-School-
+# TryHackMe: U.A. Superhero Academy – Writeup
 [![Solved](https://img.shields.io/badge/Solved%20By-Jull3Hax0r-blue?style=flat-square&logo=gnu-bash)](https://tryhackme.com/p/Jull3)
 [![TryHackMe Room](https://img.shields.io/badge/TryHackMe-UA%20Hig%20School-success?style=flat-square&logo=tryhackme)](https://tryhackme.com/room/yueiua)
-# 🦸‍♂️ TryHackMe: U.A. Superhero Academy – Writeup
-Category: Shell/Enumeration/Priv-Esc
-Difficulty: Beginner → Intermediate
-Target IP: MACHINE_IP
+> **Category:** Shell/Enumeration/Priv-Esc  
+> **Difficulty:** Beginner → Intermediate  
+> **Target IP:** `MACHINE_IP`  
+# 🦸‍♂️ U.A. Superhero Academy 
 
-> **Join us in the mission to protect the digital world of superheroes!**  
+
+> **"Join us in the mission to protect the digital world of superheroes!**  
 > U.A., the most renowned Superhero Academy, is looking for a superhero to test the security of our new site.  
 > Our site is a reflection of our school values, designed by our engineers with incredible Quirks.  
-> We have gone to great lengths to create a secure platform that reflects the exceptional education of U.A.
+> We have gone to great lengths to create a secure platform that reflects the exceptional education of U.A...."
 
 ---
 
