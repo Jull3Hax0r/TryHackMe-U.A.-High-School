@@ -1,6 +1,6 @@
 # TryHackMe-U.A.-High-School-
 [![Solved](https://img.shields.io/badge/Solved%20By-Jull3Hax0r-blue?style=flat-square&logo=gnu-bash)](https://tryhackme.com/p/Jull3)
-[![TryHackMe Room](https://img.shields.io/badge/TryHackMe-Chill%20Hack-success?style=flat-square&logo=tryhackme)](https://tryhackme.com/room/yueiua)
+[![TryHackMe Room](https://img.shields.io/badge/TryHackMe-UA%20Hig%20School-success?style=flat-square&logo=tryhackme)](https://tryhackme.com/room/yueiua)
 # 🦸‍♂️ TryHackMe: U.A. Superhero Academy – Writeup
 Category: Shell/Enumeration/Priv-Esc
 Difficulty: Beginner → Intermediate
